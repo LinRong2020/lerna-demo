@@ -1,0 +1,15 @@
+{
+  "name": "@hj/git",
+  "version": "1.0.0",
+  "description": "a git tool",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hj/logger": "^1.0.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "@hj/logger",
+  "version": "1.0.0",
+  "description": "a debug class",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
