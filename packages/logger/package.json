@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a debug class",
   "main": "./lib/index.js",
+  "typings": "./lib/logger.d.ts",
   "scripts": {
     "build": "tsc"
   },

@@ -1,6 +1,6 @@
-import { logger as Logger } from '@hj/logger'
+import { Logger } from '@hj/logger'
 
-const logger = new Logger()
+const logger: Logger = new Logger()
 
 logger.log('abcdefg')
 logger.info('abcdefg')
